@@ -15,7 +15,7 @@ Instrucciones Instalación Sistema PuestoDeQuipe.Com:
 5-	Copiar la siguiente ruta “/var/www/configuracionwebapp” la carpeta “configuracionwebapp”
 6-	Dar permiso a la carpeta: configuracionwebapp “chmod 777 –R configuracionwebapp”
 7-	Crear un base de dato con el nombre puestodequipe
-7-	Correr el Archivo puestodequipe.sql en el MySQL
+8-	Correr el Archivo puestodequipe.sql en el MySQL
 
 Aclaracion:
 
@@ -53,5 +53,15 @@ Twitter: jimenezlionsteam@yahoo.com
 123456987
 
 
+Autores:
+
+
+Tomas Jimenez
+Analista Programador
+tomasjimenezsantos@gmail.com
+
+Fernando Jimenez
+Analista Programador
+fernando.jimenez22@gmail.com
 
 
